@@ -1,4 +1,4 @@
-#FastAPI Prototypes Projects!
+# FastAPI Prototypes Projects!
 
 This repository is where I experimented with FastAPI for quick backend projects.
 
